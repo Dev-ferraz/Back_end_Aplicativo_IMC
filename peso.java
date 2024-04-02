@@ -27,18 +27,5 @@ public class peso {
 			System.out.println(msg);
 
 		}while(continuar);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }
