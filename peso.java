@@ -1,12 +1,10 @@
 package AAula1teste;
+
 import java.util.Scanner;
 
 public class peso {
 
 	public static void main(String[] args) {
-
-		
-		
 
 		Scanner s = new Scanner(System.in);
 		
@@ -16,7 +14,6 @@ public class peso {
 		boolean continuar = true;
 		
 		do {
-
 			System.out.print("QUAL SEU PESO : ");
 			peso = s.nextLine();
 			
@@ -29,7 +26,6 @@ public class peso {
 			String msg = (imc >=20 && imc <=25 )? "Peso Ideal" : "Fora do Peso";
 			System.out.println(msg);
 
-			
 		}while(continuar);
 		
 		
