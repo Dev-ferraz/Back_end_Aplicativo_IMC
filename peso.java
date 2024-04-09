@@ -1,4 +1,4 @@
-package AAula1teste;
+package IMC;
 
 import java.util.Scanner;
 
